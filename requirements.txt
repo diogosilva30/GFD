@@ -1,0 +1,4 @@
+git+https://github.com/tensorflow/docs
+tensorflow==2.5.0rc0
+matplotlib==3.3.2
+spectral==0.22.1
